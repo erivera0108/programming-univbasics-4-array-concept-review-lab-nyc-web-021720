@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   # Simple solution: array.index(value_to_find)
-  array.lenght.times do |index|
+  array.length.times do |index|
     if value_to_find == array[index]
       location = index
       puts location
