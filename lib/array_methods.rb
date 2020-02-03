@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
   # Simple solution: array.index(value_to_find)
   array.length.times do |index|
     if value_to_find == array[index]
-      location = index
-      puts location
+      puts index
+      index
     end
     nil
   end 
