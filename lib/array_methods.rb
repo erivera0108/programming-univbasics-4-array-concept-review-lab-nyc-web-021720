@@ -6,8 +6,8 @@ def find_element_index(array, value_to_find)
       puts index
       index
     end
-    nil
-  end 
+  end
+  nil 
 end
 
 =begin
