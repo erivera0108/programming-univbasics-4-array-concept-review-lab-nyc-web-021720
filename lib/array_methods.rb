@@ -6,7 +6,7 @@ def find_element_index(array, value_to_find)
       index
     end
   end
-  "I get here"
+  "I'm here"
 end
 
 =begin
