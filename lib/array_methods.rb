@@ -6,7 +6,7 @@ def find_element_index(array, value_to_find)
       location = array[index]
       puts location
     else
-      nil
+      p "nil"
     end
   end 
 end
